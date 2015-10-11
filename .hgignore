@@ -1,0 +1,8 @@
+~$
+
+\.class$
+
+^lib/
+^target/
+
+^\.lein
